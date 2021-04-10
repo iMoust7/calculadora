@@ -1,4 +1,4 @@
-print('Bem vindo a versão 3.0 da calculadora, se gostar me chame no discord iMoust#5883')
+print('Bem vindo a versão 3.1 da calculadora, se gostar me chame no discord iMoust#5883, e não se esqueça de entrar nesse site https://github.com/iMoust7')
 print('_' * 120)
 
 while True:
@@ -6,7 +6,7 @@ while True:
 + adição
 - subtração
 x multiplicação
-vx potência
+vx raiz quadrada
 : divisão
 :: divisão inteira
 % resto da divisão
