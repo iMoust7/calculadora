@@ -1,4 +1,4 @@
-print('Bem vindo a versão 3.1 da calculadora, se gostar me chame no discord iMoust#5883, e não se esqueça de entrar nesse site https://github.com/iMoust7')
+print('Bem vindo a versão 3.1 da calculadora, se gostar me chame no discord iMoust#0808, e não se esqueça de entrar nesse site https://github.com/iMoust7')
 print('_' * 120)
 
 while True:
