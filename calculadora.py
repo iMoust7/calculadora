@@ -52,7 +52,7 @@ vx raiz quadrada
         print('\n\nObrigado por continuar')
 
     elif pararwhile == 'N':
-        print('\n\nEspero vê-lo novamente')
+        print('\nEspero vê-lo novamente\nFechando...')
         break
 
     else:
