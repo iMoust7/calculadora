@@ -1,4 +1,5 @@
-print('Bem vindo a versão 3.1 da calculadora, se gostar me chame no discord iMoust#0808, e não se esqueça de entrar nesse site https://github.com/iMoust7')
+import time
+print('Bem vindo a versão 3.2 da calculadora, se gostar me chame no discord iMoust#0808, e não se esqueça de entrar nesse site https://github.com/iMoust7')
 print('_' * 120)
 
 while True:
@@ -53,7 +54,8 @@ vx raiz quadrada
 
     elif pararwhile == 'N':
         print('\nEspero vê-lo novamente\nFechando...')
-        break
+        time.sleep(5)
+        exit()
 
     else:
         print('\n\nObrigado por continuar')
